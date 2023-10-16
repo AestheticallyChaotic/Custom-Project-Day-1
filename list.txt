@@ -1,0 +1,5 @@
+1. Add smaller enemies
+2. Write Code to make them become smaller
+3. explosion in "remove bullet"
+4. Random enemy location spwaning
+5. [ Optional ] Change arrow keys to wasd
